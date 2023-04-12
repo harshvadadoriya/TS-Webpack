@@ -1,5 +1,5 @@
 import { hello } from './utils/utils';
 
-var a = 10;
+var a = 'harsh';
 console.log(a);
 hello();
